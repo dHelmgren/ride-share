@@ -1,1 +1,3 @@
-COOOOOOOOOODE
+code = "rad"
+
+puts code
